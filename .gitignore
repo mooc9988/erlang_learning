@@ -18,5 +18,6 @@ _checkouts/
 
 # idea
 .idea
+.vscode
 
 **/.DS_Store
