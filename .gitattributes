@@ -1,1 +1,4 @@
+# solve problems of LF in windows and macOS
 * text=auto
+# telling Git that erlang.mk is a binary file.
+erlang.mk -diff

@@ -4,6 +4,7 @@
 *.plt
 erl_crash.dump
 .concrete/DEV_MODE
+Mnesia.nonode@nohost/
 
 # rebar 2.x
 .rebar
@@ -21,3 +22,9 @@ _checkouts/
 .vscode
 
 **/.DS_Store
+
+# relx
+_rel/
+
+# erlang.mk
+.erlang.mk/
