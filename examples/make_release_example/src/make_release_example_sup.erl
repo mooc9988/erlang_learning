@@ -1,4 +1,4 @@
--module(make_hello_world_example_sup).
+-module(make_release_example_sup).
 -behaviour(supervisor).
 
 -export([start_link/0]).

@@ -12,8 +12,8 @@ launch.json for vscode can be :
             "name": "Existing Erlang Node",
             "type": "erlang",
             "request": "launch",
-            "projectnode": "make_hello_world_example_release",
-            "cookie": "make_hello_world_example_release",
+            "projectnode": "make_release_example_release",
+            "cookie": "make_release_example_release",
             "timeout": 300,
             "cwd": "${workspaceRoot}"
         }

@@ -1,4 +1,4 @@
-PROJECT = make_hello_world_example
+PROJECT = make_release_example
 PROJECT_DESCRIPTION = New project
 PROJECT_VERSION = 0.1.0
 
