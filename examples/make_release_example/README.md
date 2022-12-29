@@ -1,4 +1,5 @@
-
+# What it is
+This is a demo "hello world" web-service project for Erlang OTP application release.
 # How to use
 ## Before started
 Use VSCode Extension **"Erlang LS"** extension for **debugging**.
